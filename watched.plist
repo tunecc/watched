@@ -7,6 +7,7 @@
 			installd,
 			bluetoothd,
 			MobileInstallationHelperService,
+			"com.apple.MobileInstallationHelperService",
 		);
 		Bundles = (
 			"com.apple.springboard",
