@@ -2,9 +2,15 @@
 	Filter = {
 		Executables = (
 			SpringBoard,
+			apsd,
+			appconduitd,
+			installd,
+			bluetoothd,
+			MobileInstallationHelperService,
 		);
 		Bundles = (
 			"com.apple.springboard",
+			"com.apple.Bridge",
 		);
 	};
 }

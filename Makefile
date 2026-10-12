@@ -1,4 +1,4 @@
-export THEOS = /Users/huynguyen/Desktop/theos
+export THEOS = /opt/theos
 #change your theos path if needed
 #TARGET := iphone:clang:latest:16.5
 INSTALL_TARGET_PROCESSES = SpringBoard
